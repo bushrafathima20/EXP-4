@@ -53,7 +53,11 @@ Rectifier with filter
 ![WhatsApp Image 2025-12-25 at 13 45 43_4ba802b8](https://github.com/user-attachments/assets/e2d992e7-ae02-4017-aad6-c79c2a3756ba)
 
 WAVEFORM:
+
+
 <img width="1253" height="556" alt="Screenshot 2025-12-15 113036 1" src="https://github.com/user-attachments/assets/5e8bc990-9ca7-4cbc-b5b7-05db87608861" />
+
+
 <img width="1195" height="607" alt="Screenshot 2025-12-15 114109 1" src="https://github.com/user-attachments/assets/ce1ff6e5-5932-428b-8eed-b6683661b6b0" />
 
 
